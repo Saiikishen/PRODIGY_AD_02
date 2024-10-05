@@ -49,11 +49,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-Include screenshots of the app in action here (optional):
 
-| Add Task Screen      | Task List Screen      |
-|----------------------|-----------------------|
-| ![Add Task](path_to_image) | ![Task List](path_to_image) |
 
 ## Technologies Used
 
