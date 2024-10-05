@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 5. Delete a task by tapping the **Delete** icon.
 
 ## Screenshots
-
+https://github.com/Saiikishen/PRODIGY_AD_02/blob/main/todo.png
 
 
 ## Technologies Used
