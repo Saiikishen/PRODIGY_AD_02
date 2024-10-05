@@ -3,15 +3,7 @@
 
 A simple and effective **To-Do Application** built using **Flutter**, developed as part of an internship at **Prodigy Infotech**. This app helps users organize tasks, set reminders, and increase productivity by managing their daily to-dos efficiently.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 - ✅ **Add Tasks**: Quickly add tasks with a simple user interface.
